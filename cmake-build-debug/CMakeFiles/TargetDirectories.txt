@@ -1,0 +1,3 @@
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/CMakeFiles/solutions.dir
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSBoardTextView.h
+minesweeper.h
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/minesweeper.h
+
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSTextController.cpp
+MSTextController.h
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSTextController.h
+MSBoardTextView.h
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSBoardTextView.h
+
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSTextController.h
+MSBoardTextView.h
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSBoardTextView.h
+minesweeper.h
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/minesweeper.h
+
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/field.h
+
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/minesweeper.h
+iostream
+-
+field.h
+C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/field.h
+

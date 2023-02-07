@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="solutions"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="solutions">
+				<Option output="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/solutions.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 solutions"/>
+					<CompileFile command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="solutions/fast">
+				<Option output="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/solutions.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="H:/Program Files/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 solutions/fast"/>
+					<CompileFile command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Program Files/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSBoardTextView.cpp">
+			<Option target="solutions"/>
+		</Unit>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSBoardTextView.h">
+			<Option target="solutions"/>
+		</Unit>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSTextController.cpp">
+			<Option target="solutions"/>
+		</Unit>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/MSTextController.h">
+			<Option target="solutions"/>
+		</Unit>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/field.h">
+			<Option target="solutions"/>
+		</Unit>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/main.cpp">
+			<Option target="solutions"/>
+		</Unit>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/minesweeper.cpp">
+			<Option target="solutions"/>
+		</Unit>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/minesweeper.h">
+			<Option target="solutions"/>
+		</Unit>
+		<Unit filename="C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

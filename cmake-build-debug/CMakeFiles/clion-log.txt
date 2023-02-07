@@ -1,0 +1,4 @@
+"H:\Program Files\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Arosl\Desktop\C++\ppo\Projekt_1\solutions\Astrofaza
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Arosl/Desktop/C++/ppo/Projekt_1/solutions/Astrofaza/cmake-build-debug
